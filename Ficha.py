@@ -1,6 +1,6 @@
 class Ficha:
     """
-    Representa una ficha individual de un jugador.
+    Representa una ficha individual de un jugador. 
     Cada ficha tiene un identificador único, una posición actual en el tablero (casilla),
     y mantiene un enlace a su casilla actual (objeto de typo Casilla).
     La clase permite mover la ficha, comprobar si puede moverse una cantidad de pasos determinada
